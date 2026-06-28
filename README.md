@@ -13,3 +13,15 @@ Funcionalidades principales:
 - Visualización: Gráficos de ventas que permiten identificar rápidamente el rendimiento de los productos y vendedores.
 
 - Proyecto desarrollado para la gestión y análisis eficiente de información comercial.
+
+## Visualización del Proyecto
+
+*Base de Datos:*
+![Base de Datos](Imagen%20Base%20de%20Datos.png)
+
+*Tablas Dinámicas y Segmentadores:*
+![Tabla Dinámica 1](Imagen%201%20Tabla%20Dinamica.png)
+![Tabla Dinámica 2](Imagen%202%20Tabla%20Dinamica.png)
+
+*Gráficos:*
+![Gráfico de Ventas](Imagen%20Grafica.png)
